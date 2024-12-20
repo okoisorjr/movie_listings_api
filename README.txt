@@ -15,6 +15,15 @@ Nodejs
 Express
 Mongodb
 
+
+## Related
+
+Here is a related project
+
+[Frontend](https://github.com/okoisorjr/movie_listings.git)
+
+Before going further it is in order to let you know that the user interface that connects with this api can be found
+
 # Getting Started
 
 ## Setup 
@@ -36,3 +45,4 @@ To run the project on your local device simply run the command
 ```bash
     npm start
 ```
+
