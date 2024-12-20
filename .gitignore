@@ -1,0 +1,10 @@
+node_modules
+privkey.pem
+fullchain.pem
+movielist.movies.json
+movielist.users.json
+vercel.json
+project.json
+
+.vercel
+.env
