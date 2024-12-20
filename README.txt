@@ -1,7 +1,9 @@
 Name: Okoisor Ochael
+
 Email: okoisorjr@gmail.com
 
 Frontend Link: https://movie-listings-7jik-6jqajf4xn-okoisorjrs-projects.vercel.app
+
 API Link: https://172.210.66.174:11000/api/v1/movielist
 
 # Movie listings
